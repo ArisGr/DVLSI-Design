@@ -1,6 +1,6 @@
 # Digital Design – VLSI Lab Exercises  
 
-This repository contains six lab exercises from the **Digital Design / VLSI** course (NTUA, 9th semester).  
+This repository contains six lab exercises from the **Digital Design / VLSI** course (NTUA, 8th semester).  
 The labs focus on **VHDL design methodologies**, **structural and behavioral modeling**, **pipelining techniques**, and **hardware acceleration**.  
 Work was carried out both in simulation (Vivado) and on the **physical Zynq SoC FPGA board (ZYBO)**, integrating hardware modules with the ARM processing system via **AXI interfaces**.  
 
